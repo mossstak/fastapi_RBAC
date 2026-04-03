@@ -1,9 +1,4 @@
-<div>
-    <h1>Role Based Access Control FastAPI Project</h1> 
-    <h2> Created By Mostak Khan </h2>
-</div>
-
----
+# Role Based Access Control FastAPI Project
 
 ### Description
 
@@ -11,8 +6,7 @@ This is a Role Based Control System using FastAPI and Postgres, I have created t
 
 ---
 
-## To do after cloning this project from Github.
-
+### To do after cloning this template from Github.
 ### Setting Up Virtual Environment
 
 ```cmd
