@@ -18,5 +18,9 @@ This is a Role Based Control System using FastAPI and Postgres, I have created t
 ### Installing own dependancy via Requirement file
 
 ```python
-pip install requirements.txt
+pip install -r requirements.txt
+```
+### Running the Application
+```python 
+python -m uvicorn app.main:app --reload
 ```
